@@ -31,12 +31,17 @@
 
 - PRIYANKA GUPTA 
 - PANKAJ TRIPATHI
-- BIPUL SHUKLA {SHUKLA JI} JO KI APNI BRAHMAN BUDDHI K LIYE JANAJATA HA 
-- RAJA SINGH PARIHAR {NAWABZADE THAKHUR SAHAB} JO KI APNI RAHISI K LIYE JANA JATA HA 
+  
 
 For more Information go to this Link: [GDSC WOW](https://youtu.be/sDJtzVOB8Jo?si=9Ee5AhIIYW8MjCth) 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
+
+
+
 
 
 
