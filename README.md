@@ -31,7 +31,9 @@
 
 For more Information go to this Link: [GDSC WOW](https://youtu.be/sDJtzVOB8Jo?si=9Ee5AhIIYW8MjCth) 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.ytimg.com/vi/nnhOHee8yVw/maxresdefault.jpg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
 
 
 
