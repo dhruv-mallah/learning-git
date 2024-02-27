@@ -1,4 +1,4 @@
-# LEARNING-GIT
+ni# LEARNING-GIT
 ## *ALWAYS TRY TO LEARN NEW*
 ### Welcome to the world of learning
 <BR>
@@ -32,7 +32,6 @@
 - PRIYANKA GUPTA 🙂
 - PANKAJ TRIPATHI 👊
 - AJAY SHUKLA 😰
-- ARPIT :fu:
 
   
 
